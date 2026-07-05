@@ -1,7 +1,6 @@
 ## Hi there 👋
 I have a B.S. in computer engineering from California State Polytechnic University, Pomona.
 I enjoy writing SystemVerilog and C.
-I am currently focused on writing a SSEG animator tool in C with raylib.
 <!--
 **TajWoodward/TajWoodward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
