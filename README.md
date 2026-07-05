@@ -1,5 +1,5 @@
 ## Hi there 👋
-I have a B.S. in computer engineering.
+I have a B.S. in computer engineering from California State Polytechnic University, Pomona.
 I enjoy writing SystemVerilog and C.
 I am currently focused on writing a SSEG animator tool in C with raylib.
 <!--
