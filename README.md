@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my Github Account
 I have a B.S. in computer engineering from California State Polytechnic University, Pomona.
 I enjoy writing SystemVerilog and C.
 <!--
